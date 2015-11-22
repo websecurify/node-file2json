@@ -1,6 +1,6 @@
 {
   "name": "file2json",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Converts a file to JSON",
   "bin": {
     "file2json": "./bin/index.js"
